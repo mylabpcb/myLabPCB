@@ -1,12 +1,12 @@
 # Site Settings
 lang: en
 title: myLabPCB
-tagline: The house of The myCPU Project
+tagline: The home of myLabPCB
 email: mylabpcb@gmail.com
 description: >
-  The house of the myCPU Project and myEnigma
+  The home of the myLabPCB initiative
 baseurl: ""
-url: "https://mycpu.mylabpcb.com"
+url: "https://home.mylabpcb.com"
 permalink: pretty
 favicon: /img/logo_icon.png
 #gh_sponsor: chrisrhymes
