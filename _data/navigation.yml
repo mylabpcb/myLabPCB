@@ -3,7 +3,7 @@
     - name: myCPU
       link: https://mycpu.mylabpcb.com/pages/en/mycpu/introduction/
     - name: myCPU256
-      link:
+      link: https://mycpu256.mylabpcb.com/pages/en/mycpu/introduction/
 - name: Blog
   link: /blog/en/
 - name: About
