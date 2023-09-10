@@ -1,7 +1,7 @@
 - name: Projects
   dropdown:
     - name: myCPU
-      link: /pages/en/mycpu/introduction
+      link: https://mycpu.mylabpcb.com/pages/en/mycpu/introduction/
     - name: myCPU256
       link:
 - name: Blog
