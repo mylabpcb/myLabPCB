@@ -1,5 +1,5 @@
 ## myLabPCB initiative
 
-Welcome to the myLabPCB!
+Welcome to the the myLabPCB initiative!
 
 
