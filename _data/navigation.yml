@@ -2,9 +2,11 @@
   dropdown:
     - name: myCPU
       link: https://mycpu.mylabpcb.com/pages/en/mycpu/introduction/
+      target: _blank
     - name: myLogic
       link: https://mylogic.mylabpcb.com/pages/en/introduction/
+      target: _blank
 - name: Blog
   link: /blog/en/
-- name: About
-  link: /pages/en/about
+# - name: About
+#   link: /pages/en/about
