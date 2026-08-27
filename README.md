@@ -1,5 +1,5 @@
-## myLabPCB initiative
+## myLabPCB
 
-Welcome to the myLabPCB, an initiative to shared based PCB projects for DIY !
+Welcome to the myLabPCB, an initiative to design based PCB projects for DIY !
 
 
